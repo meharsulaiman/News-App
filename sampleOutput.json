@@ -1,0 +1,215 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+        {
+            "source": { "id": null, "name": "CBS Sports" },
+            "author": "R.J. Anderson",
+            "title": "Dodgers-Padres score: Live updates from NLDS Game 2 - CBS Sports",
+            "description": "The Dodgers took the first game of the series Tuesday",
+            "url": "https://www.cbssports.com/mlb/news/dodgers-padres-score-live-updates-from-nlds-game-2/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/10/13/3bc03215-26b7-4e74-b179-e13c43be5ead/thumbnail/1200x675/bdbdcae13239a7faf9458bf8e1d83e11/freeman-getty.png",
+            "publishedAt": "2022-10-13T02:30:00Z",
+            "content": "The San Diego Padres and the Los Angeles Dodgers will continue their National League Division Series with Game 2 on Wednesday night. The Dodgers won Game 1 by a 5-3 final on Tuesday, taking a 1-0 lea… [+960 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Nick Miroff, Kevin Sieff",
+            "title": "U.S. and Mexico reach agreement on plans for Venezuelan migrants - The Washington Post",
+            "description": "The Biden administration has reached a deal with Mexico to send back some Venezuelan migrants, while expanding opportunities for others to arrive legally",
+            "url": "https://www.washingtonpost.com/national-security/2022/10/12/united-states-mexico-venezuelans/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TVPWDY6M25YPPDACYQPDCGJJYQ.JPG&w=1440",
+            "publishedAt": "2022-10-13T02:19:08Z",
+            "content": "The Department of Homeland Security announced measures Wednesday aimed at reducing the number of Venezuelan migrants arriving at the southern border, a record influx that has fueled partisan division… [+6135 chars]"
+        },
+        {
+            "source": { "id": "reuters", "name": "Reuters" },
+            "author": null,
+            "title": "Google approves Trump's Truth Social for Play Store - Reuters",
+            "description": "Alphabet Inc's <a href=\"https://www.reuters.com/companies/GOOGL.O\" target=\"_blank\">(GOOGL.O)</a> Google has approved former U.S. President Donald Trump's social media app Truth Social for distribution in the Google Play Store, a company spokesperson said on W…",
+            "url": "https://www.reuters.com/technology/google-approves-trumps-truth-social-play-store-axios-2022-10-12/",
+            "urlToImage": "https://www.reuters.com/resizer/Ec1DIuACZR-2YaUq5YRmqr0gF6Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PQEWE2R4DNMEXBNPNN73HQNBXA.jpg",
+            "publishedAt": "2022-10-13T01:33:00Z",
+            "content": "Oct 12 (Reuters) - Alphabet Inc's (GOOGL.O) Google has approved former U.S. President Donald Trump's social media app Truth Social for distribution in the Google Play Store, a company spokesperson sa… [+2315 chars]"
+        },
+        {
+            "source": { "id": null, "name": "The Guardian" },
+            "author": "Erum Salam",
+            "title": "Ron DeSantis investigated over migrant transfer from Texas to Martha’s Vineyard - The Guardian US",
+            "description": "Treasury inquiring into whether Florida governor improperly used interest on Covid relief funds to transport people to Massachusetts",
+            "url": "https://www.theguardian.com/us-news/2022/oct/12/ron-desantis-texas-migrants-marthas-vineyard",
+            "urlToImage": "https://i.guim.co.uk/img/media/b5caaff090526b16e7899176ee6d41c4e808fed1/90_7_2909_1745/master/2909.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=310fcfe3848478568af5f4a21cd0dd60",
+            "publishedAt": "2022-10-13T00:22:00Z",
+            "content": "The US treasury department is investigating whether the Florida governor, Ron DeSantis, improperly used funds to transport migrants from Texas to Marthas Vineyard on chartered flights.\r\nThe Treasury … [+1813 chars]"
+        },
+        {
+            "source": { "id": null, "name": "The Guardian" },
+            "author": "Samantha Lock",
+            "title": "Russia-Ukraine war latest: what we know on day 232 of the invasion - The Guardian",
+            "description": "UN votes to condemn Russia’s annexation of parts of Ukraine; Nato allies pledge to deliver more air defence systems to Kyiv",
+            "url": "https://www.theguardian.com/world/2022/oct/13/russia-ukraine-war-latest-what-we-know-on-day-232-of-the-invasion",
+            "urlToImage": "https://i.guim.co.uk/img/media/04c1123bb1059e37cd9faa4c94c3c58004a87811/0_400_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0a7da3758b6951bc627b6c64395c9938",
+            "publishedAt": "2022-10-13T00:00:00Z",
+            "content": "<li>The United Nations general assembly on Wednesday overwhelmingly voted to condemn Russias annexation of parts of Ukraine as 35 nations abstained including China, India, South Africa and Pakistan. … [+3950 chars]"
+        },
+        {
+            "source": { "id": null, "name": "CNET" },
+            "author": "Eric Mack",
+            "title": "Success! NASA's DART Redirects Asteroid in 'Watershed Moment for Humanity' - CNET",
+            "description": "The spacecraft changed the orbit and location of the space rock Dimorphos in a test of planetary protection.",
+            "url": "https://www.cnet.com/science/space/success-nasas-dart-deflects-asteroid-in-watershed-moment-for-humanity/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/25b1974a15c8fae20ef7ae31bf9c827326e37a16/hub/2022/09/28/b275176c-4100-48e5-8e07-2681e219a508/dart-crash.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2022-10-12T23:52:00Z",
+            "content": "NASA has succeeded in changing the orbit of asteroid Dimorphos. NASA crashed its Double Asteroid Redirection Test spacecraft, aka DART, into Dimorphos a few weeks ago to test one possible method of p… [+2844 chars]"
+        },
+        {
+            "source": { "id": "reuters", "name": "Reuters" },
+            "author": null,
+            "title": "Alex Jones must pay Sandy Hook families nearly $1 billion for hoax claims, jury says - Reuters.com",
+            "description": "Right-wing conspiracy theorist Alex Jones must pay at least $965 million in damages to numerous families of victims of the 2012 Sandy Hook mass shooting for falsely claiming they were actors who faked the tragedy, a Connecticut jury said on Wednesday.",
+            "url": "https://www.reuters.com/legal/jury-begins-third-day-deliberations-alex-jones-sandy-hook-defamation-trial-2022-10-12/",
+            "urlToImage": "https://www.reuters.com/resizer/ciZkLed9G8eTwwO8p-dEZDWkq9M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SECVYVG2PBMZVKOJ5OSH5L5ZNQ.jpg",
+            "publishedAt": "2022-10-12T23:21:00Z",
+            "content": "Oct 12 (Reuters) - Right-wing conspiracy theorist Alex Jones must pay at least $965 million in damages to numerous families of victims of the 2012 Sandy Hook mass shooting for falsely claiming they w… [+5259 chars]"
+        },
+        {
+            "source": { "id": "cbs-news", "name": "CBS News" },
+            "author": "David Martin",
+            "title": "Navy punishes officers overseeing SEAL training after candidate's death - CBS News",
+            "description": "A Navy investigation into the death of Navy SEAL candidate Kyle Mullen found he died in the line of duty, not as a result of misconduct, just after finishing the infamous \"Hell Week.\"",
+            "url": "https://www.cbsnews.com/news/kyle-mullen-navy-seal-candidate-hell-week-death-investigation/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/10/12/8afb25d3-03e9-4431-8a65-be80eff28369/thumbnail/1200x630/226aaf1ae5b5fbfbb0234e454c5369d7/kyle.jpg",
+            "publishedAt": "2022-10-12T23:20:00Z",
+            "content": "The Navy has taken disciplinary action against three officers who oversaw Navy SEAL training earlier this year when a candidate died just hours after completing the infamous \"Hell Week.\"\r\nAn investig… [+4045 chars]"
+        },
+        {
+            "source": { "id": "politico", "name": "Politico" },
+            "author": null,
+            "title": "LA City Council president resigns following leaked racist remarks - POLITICO",
+            "description": "“To my staff — I’m sorry that we’re ending it this way,” Nury Martinez wrote.",
+            "url": "https://www.politico.com/news/2022/10/12/nury-martinez-resigns-los-angeles-00061566",
+            "urlToImage": "https://static.politico.com/50/46/537ead614d47a97c790f3e5bafe9/221012-nury-martinez-getty.jpg",
+            "publishedAt": "2022-10-12T22:46:27Z",
+            "content": "The hourlong recording captured a conversation between the three council members and a labor leader in which Martinez made pointed racist remarks about another white council members Black son, callin… [+1710 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Devlin Barrett, Josh Dawsey",
+            "title": "Mar-a-Lago witness told FBI that boxes were moved at Trump's direction - The Washington Post",
+            "description": "The employee told federal agents about moving boxes at Mar-a-Lago at the explicit direction of Donald Trump after a subpoena seeking the return of all classified material.",
+            "url": "https://www.washingtonpost.com/national-security/2022/10/12/maralago-witness-trump-boxes-moved/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RRI7FGB2YII63OFPBICOLXB5WY.jpg&w=1440",
+            "publishedAt": "2022-10-12T22:43:07Z",
+            "content": "A Trump employee has told federal agents about moving boxes of documents at Mar-a-Lago at the specific direction of the former president, according to people familiar with the investigation, who say … [+9417 chars]"
+        },
+        {
+            "source": {
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
+            },
+            "author": "Lester Fabian Brathwaite",
+            "title": "How Angela Lansbury saved her daughter from joining Charles Manson's cult - Entertainment Weekly News",
+            "description": "\"He was an extraordinary character, charismatic in many ways, no question about it,\" Lansbury said of the cult leader.",
+            "url": "https://ew.com/celebrity/charles-manson-angela-lansbury-daughter/",
+            "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=0%2C23%2C2000%2C1023&poi=%5B980%2C0%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2022%2F10%2F12%2FAngela-Lansbury-Charles-Manson-101222.jpg",
+            "publishedAt": "2022-10-12T22:35:00Z",
+            "content": "Manson, she warned.\r\nAngela Lansbury was recently taken from us (far too soon at the tender age of 96), but as a result of her passing, all sorts of great stories about the beloved acting legend are … [+2634 chars]"
+        },
+        {
+            "source": { "id": "fox-sports", "name": "Fox Sports" },
+            "author": "FOX Sports",
+            "title": "Phillies-Braves NLDS Game 2 delayed, still set for Wednesday - FOX Sports",
+            "description": "Game 2 between the Phillies and Braves has been delayed.",
+            "url": "https://www.foxsports.com/stories/mlb/phillies-braves-nlds-game-2-delayed-still-set-for-wednesday",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/1408/814/NLDS.png?ve=1&tl=1",
+            "publishedAt": "2022-10-12T22:29:01Z",
+            "content": null
+        },
+        {
+            "source": { "id": "cbs-news", "name": "CBS News" },
+            "author": "Erin Pflaumer",
+            "title": "Pair of stars create \"fingerprint\" in photo taken by James Webb Space Telescope - CBS News",
+            "description": "The two intertwined stars, located 5,000 light years from Earth, create what looks like a \"fingerprint\" in space.",
+            "url": "https://www.cbsnews.com/news/stars-fingerprint-james-webb-space-telescope-nasa/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/10/12/e60fd170-96c7-4be8-9509-5f68b06cba7d/thumbnail/1200x630/dbc05039a2a13424a8215177bd311d92/wolfrayetfingerprintstar.jpg",
+            "publishedAt": "2022-10-12T22:04:14Z",
+            "content": "Two intertwined stars are creating what looks like a \"fingerprint\" in space. NASA released a photo Wednesday taken of the duo by the James Webb Space Telescope, which shows at least 17 dust rings sur… [+1857 chars]"
+        },
+        {
+            "source": { "id": null, "name": "YouTube" },
+            "author": null,
+            "title": "Surface Pro 9 Hands-On (Plus Surface Studio & Laptop 5) - CNET",
+            "description": "New colors and a 5G option come to some of Microsoft's Surface PCs.Read more on CNET: https://www.cnet.com/tech/computing/everything-microsoft-just-announced...",
+            "url": "https://www.youtube.com/watch?v=bt6isK9o80w",
+            "urlToImage": "https://i.ytimg.com/vi/bt6isK9o80w/maxresdefault.jpg",
+            "publishedAt": "2022-10-12T22:00:13Z",
+            "content": null
+        },
+        {
+            "source": { "id": null, "name": "BBC News" },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Liz Truss under pressure from senior Tory MPs to rethink tax cuts - BBC",
+            "description": "The warnings came ahead of a bruising appearance for Liz Truss at a meeting of Tory backbenchers.",
+            "url": "https://www.bbc.com/news/uk-politics-63236532",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/264F/production/_127070890_67c3dee424294a261284c96cfa31facd39fef9fa.jpg",
+            "publishedAt": "2022-10-12T21:12:06Z",
+            "content": "The government may have to rethink its tax-cutting plans to reassure financial markets and stabilise the economy, some senior Conservative MPs have said.\r\nThe warnings came ahead of a bruising appear… [+4873 chars]"
+        },
+        {
+            "source": { "id": null, "name": "The Guardian" },
+            "author": "Maya Yang",
+            "title": "Indiana supreme court blocks state from enforcing abortion ban - The Guardian US",
+            "description": "Court order keeps ban on hold while judges consider whether Republican-backed effort violates state constitution",
+            "url": "https://www.theguardian.com/us-news/2022/oct/12/indiana-supreme-court-state-abortion-ban",
+            "urlToImage": "https://i.guim.co.uk/img/media/84444a687d273988f9ff0132caacc998221213ac/0_333_4032_2419/master/4032.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=99ad5ffaf62869de18d2ba0a025a8d1a",
+            "publishedAt": "2022-10-12T21:00:00Z",
+            "content": "The Indiana supreme court issued an order Wednesday that prevents the state from enforcing a Republican-backed abortion ban while it considers whether it violates the state constitution.\r\nThe supreme… [+3409 chars]"
+        },
+        {
+            "source": { "id": null, "name": "WESH Orlando" },
+            "author": "Scott Heidler",
+            "title": "NASA announces new target launch date for Artemis - WESH 2 Orlando",
+            "description": "A launch attempt for the end of September was scrapped due to to Hurricane Ian.",
+            "url": "https://www.wesh.com/article/nasa-launch-date-artemis/41597691",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/artemis-png-1662217414.png?crop=1.00xw:0.908xh;0,0&resize=1200:*",
+            "publishedAt": "2022-10-12T20:49:00Z",
+            "content": "BREVARD COUNTY, Fla. —NASA announced Wednesday that they will roll the Artemis I SLS moon rocket back out to the pad for another launch attempt next month.\r\nFirst, it was a rocket engine sensor, then… [+1836 chars]"
+        },
+        {
+            "source": { "id": "usa-today", "name": "USA Today" },
+            "author": "John Bacon and Jorge L. Ortiz, USA TODAY",
+            "title": "Ukraine live updates: 5 Russians among 8 arrested in Crimea blast - USA TODAY",
+            "description": "Ukraine’s military intelligence agency was behind the attack Saturday on the 12-mile Crimean bridge, Europe's longest, Russia says. Updates.",
+            "url": "https://www.usatoday.com/story/news/world/2022/10/12/ukraine-russia-invasion-live-updates/10474721002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/10/12/USAT/e5534093-f197-4569-bc13-c2a0197cc55e-AFP_32KZ6Y2.jpg?auto=webp&crop=9729,5473,x0,y141&format=pjpg&width=1200",
+            "publishedAt": "2022-10-12T20:48:45Z",
+            "content": "Five Russians are among eight suspects detained in connection with the explosion that has gnarled rail and vehicle traffic on the $3.6 billion Crimea bridge, Russia's domestic intelligence service sa… [+7699 chars]"
+        },
+        {
+            "source": { "id": null, "name": "Hollywood Reporter" },
+            "author": "Katie Kilkenny",
+            "title": "Warner Bros. Discovery to Reinstate Pipeline Programs for Writers and Directors - Hollywood Reporter",
+            "description": "Warner Bros. Discovery has backed off of a plan to shutter workshops for ascendant writers and directors after industry backlash. The company said in a statement Wednesday that it was transferring the Directors’ Workshop and Writers’ Workshop programs from it…",
+            "url": "https://www.hollywoodreporter.com/business/business-news/warner-bros-discovery-pipeline-programs-writers-and-directors-reinstated-1235240132/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/10/GettyImages-1227758379.jpg?w=1024",
+            "publishedAt": "2022-10-12T20:36:11Z",
+            "content": "Warner Bros. Discovery has backed off of a plan to shutter workshops for ascendant writers and directors after industry backlash.\r\nThe company said in a statement Wednesday that it was transferring t… [+3286 chars]"
+        },
+        {
+            "source": { "id": null, "name": "Barron's" },
+            "author": "Lisa Beilfuss",
+            "title": "Wall Street Is Hoping for a Policy Pivot. Fed Minutes Show It's Not Coming Soon. - Barron's",
+            "description": "Notes from the September monetary policy meeting indicate that inflation is \"broad-based and unacceptably high.\"",
+            "url": "https://www.barrons.com/articles/fed-minutes-release-today-51665536781",
+            "urlToImage": "https://images.barrons.com/im-642221/social",
+            "publishedAt": "2022-10-12T19:44:00Z",
+            "content": "Minutes from the Federal Reserves Sept. 20-21 monetary-policy meeting provide some fodder for recurring hopes that a Fed pivot is nearing. Investors should dismiss it.\r\nThe minutes noted broad-based … [+492 chars]"
+        }
+    ]
+}
